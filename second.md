@@ -1,1 +1,1 @@
-This is the first line changed in main branch.
+This is the updated first line from bugfix branch.
