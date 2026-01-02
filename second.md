@@ -1,1 +1,1 @@
-This is the second file.
+This is the updated first line from bugfix branch.
